@@ -138,3 +138,9 @@ body{
     padding-left: 10rem;
     padding-right: 10rem;
 }
+
+@media only screen and (max-width: 767px){
+.my_caps{
+    font-size: 35px;
+}
+}
