@@ -146,6 +146,42 @@ body{
 .my-conts{
     padding:0;
 }
+
+.my-head{
+    font-size: 2rem;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    color: #171717;
+}
+.my-tagline{
+    font-size: 1rem;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    color: #171717;
+}
+.Title_about-me{
+    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 4rem;
+    padding-top: 4rem;
+    color: #C0C0C0;
+}
+.Paragraph_about-me{
+    text-align: justify;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #A9A9A9;
+}
+.Contact_me{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #A9A9A9;
+}
 }
 
 
