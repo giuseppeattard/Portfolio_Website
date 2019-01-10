@@ -148,6 +148,13 @@ body{
 }
 }
 
+.burger{
+    height: 5px;
+    background: #fff;
+    margin: 5px;
+    border-radius: 24px;
+    transition: .3s;
+}
 
 
 
