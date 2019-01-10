@@ -72,6 +72,7 @@ body{
 }
 
 .Paragraph_about-me{
+    text-align: justify;
     padding-left: 10rem;
     padding-right: 10rem;
     padding-top: 2rem;
