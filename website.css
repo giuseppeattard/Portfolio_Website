@@ -148,15 +148,19 @@ body{
 }
 }
 
-.burger{
-    height: 5px;
-    background: #fff;
-    margin: 5px;
-    border-radius: 24px;
-    transition: .3s;
+
+hr.custom {
+    width: 70%;
+    border: 0;
+    height: 2px;
+    background: #000;
+    opacity: 0.2;
 }
 
-
+.my-icon{
+    opacity: 0.2;
+    color: #000;
+}
 
 
 
