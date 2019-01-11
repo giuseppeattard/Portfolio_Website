@@ -182,6 +182,10 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: #A9A9A9;
 }
+.About_photo{
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+}
 }
 
 
@@ -198,8 +202,10 @@ hr.custom {
     color: #000;
 }
 
-
-
+.About_photo{
+    padding-bottom: 2rem;
+    padding-right: 10rem;
+}
 
 
 
